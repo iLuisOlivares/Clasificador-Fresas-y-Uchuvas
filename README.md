@@ -2,7 +2,9 @@
 
 ## Algoritmos de IA para clasificar Fresas y Uchuvas 🍓
 
-<a href="https://colab.research.google.com/github/iLuisOlivares/OpenCV-IA/blob/main/Software_libre_Corte_2.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/drive/1i0srXVyX3fYZJoem1Bk-NFgT270R__OI?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+## Objetivos
 
 Crear un clasificador que tenga como etiquetas: uchuvas y fresas.
 Tener en cuenta los siguientes requisitos:
